@@ -1,7 +1,7 @@
 - 👋 Hi, I’m CHOW Tak Hin Thomas
-- 👀 I’m interested in Quantitative Trading and Financial Modeling using python
-- 🌱 I’m currently learning techniques related to machine learning, quantitative trading, kalman filter and pairs trading
-- 💞️ I’m looking to collaborate on quantitative investment strategies
+- 👀 I’m interested in Financial Modeling using python
+- 🌱 I’m currently learning techniques related to machine learning, quantitative methods
+- 💞️ I’m looking to collaborate on data science projects
 - 📫 Reach me at thomaschow1999@gmail.com
 
 <!---
